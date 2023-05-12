@@ -9,4 +9,4 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: [SOLUTION](https://github.com/Jinzero10/Order-card.git)
-- Live Site URL: [LIVE SITE](https://your-live-site-url.com)
+- Live Site URL: [LIVE SITE](https://order-card-jinzero.netlify.app/)

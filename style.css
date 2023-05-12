@@ -123,6 +123,9 @@ h1{
 .cancel_btn, p{
     color: var(--Desaturated-blue);
 }
+.cancel_btn{
+    background: transparent;
+}
 .cancel_btn:hover{
     cursor: pointer;
     color: var(--Dark-blue);
