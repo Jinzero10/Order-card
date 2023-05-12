@@ -1,6 +1,5 @@
-@media  screen and (max-width: 460px) {
-    main{
-        margin-left: auto;
-        margin-right: auto;
-    }
+@media  (max-width: 380px) {
+     body{
+        width: 500px;
+     }
 }
